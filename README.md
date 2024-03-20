@@ -11,7 +11,7 @@
   
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com/lunox.code/">
+<a href="www.linkedin.com/in/shivam-gupta-a16287256">
   <img align="center" 
        alt="Lunox's Instagram" 
        width="22px" 
