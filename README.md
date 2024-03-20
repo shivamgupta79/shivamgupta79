@@ -7,7 +7,7 @@
 
 
 <!-- Quote -->
-<p align="center"> Computer Science Student
+<p align="center"> Computer Science Engineering Student
   
   <!-- Social Network -->
 <h1 align="center">
