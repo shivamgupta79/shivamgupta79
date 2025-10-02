@@ -21,7 +21,7 @@ Currently learning IIoT and collaborating on projects in IoT, ML, and embedded s
 - **Dev & Tools:** Git, Docker basics, GitHub Actions (CI), Colab/Jupyter
 - **Languages:** Python, C++, C, SQL (basics)
 
-> *If I missed a technology you want listed, replace/add it in the Skills section above.*
+
 
 ---
 
@@ -30,19 +30,19 @@ Currently learning IIoT and collaborating on projects in IoT, ML, and embedded s
 - **Repo:** `stock-news-summarizer` — A Python project for summarizing finance/stock news (recently updated).
 - **Why featured:** Shows NLP + practical data pipeline skills.
 - **Repo:** https://github.com/shivamgupta79/stock-news-summarizer
-- **Live / Deploy:** _Add your deploy link here (e.g., Streamlit or web host)_
+
 
 ### 2) **Suspicious Login Detector**
 - **Repo:** `suspicious-login-detector` — Anomaly detection for authentication events (model + pipeline).
 - **Why featured:** Real-world security/ML project demonstrating data preprocessing, model training, and evaluation.
 - **Repo:** https://github.com/shivamgupta79/suspicious-login-detector
-- **Live / Deploy:** _Add demo link here_
+
 
 ### 3) **Patient Monitoring (pinned)**
 - **Repo:** `patient-monitoring` — Embedded/C++ project for patient vitals monitoring (hardware + firmware).
 - **Why featured:** Demonstrates embedded systems, sensors, and C++ firmware development.
 - **Repo:** https://github.com/shivamgupta79/patient-monitoring
-- **Live / Deploy:** _Add deployment link (if any)_
+
 
 ---
 
