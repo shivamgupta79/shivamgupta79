@@ -4,11 +4,6 @@
 I build embedded & cloud-connected systems, ML/AI prototypes, and IoT dashboards.  
 Currently learning IIoT and collaborating on projects in IoT, ML, and embedded systems.
 
-<!-- Visitor Counter with Custom Style -->
-<img src="https://komarev.com/ghpvc/?username=BitGladiator&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
 ---
 
 <div align="center">
