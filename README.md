@@ -19,15 +19,7 @@ Currently learning IIoT and collaborating on projects in IoT, ML, and embedded s
 
 > Highlights shown above: Commit / Repo / PR badges and other achievement trophies from my GitHub profile.
 
----
 
-## 🙏 Thanks for visiting
-<!-- Upload `assets/thanks-banner.png` to your repo and this will show -->
-![Thanks Banner](/assets/thanks-banner.png)
-
-> "Building the future, one commit at a time."
-
----
 
 ## 📈 Profile & tagline
 <!-- Upload `assets/profile-views.png` to your repo and this will show -->
@@ -91,3 +83,14 @@ If you want, I’ll now:
 - automatically fill the full repo table with one-line descriptions taken from each repo’s README (I’ll generate the completed markdown).
 
 Which one do you want me to do next — **Option 1**, **Option 2**, or **Option 3**? 🚀
+
+
+---
+
+## 🙏 Thanks for visiting
+<!-- Upload `assets/thanks-banner.png` to your repo and this will show -->
+![Thanks Banner](/assets/thanks-banner.png)
+
+> "Building the future, one commit at a time."
+
+---
