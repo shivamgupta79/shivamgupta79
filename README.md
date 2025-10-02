@@ -6,9 +6,6 @@ Currently learning IIoT and collaborating on projects in IoT, ML, and embedded s
 
 ---
 
-<div align="center">
----
-
 ## 🔭 Quick stats
 - 🔸 Repositories: 30+  
 - 🔸 Stars: 13+  
