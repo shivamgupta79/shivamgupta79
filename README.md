@@ -9,7 +9,7 @@ Currently learning IIoT and collaborating on projects in IoT, ML, and embedded s
 ## 🔭 Quick stats
 - 🔸 Repositories: 30+  
 - 🔸 Stars: 13+  
-- 🔸 Languages I use: Python, C++, C, JavaScript/TypeScript, Bash.
+- 🔸 Languages I use: Python, C++, C.
 
 ---
 
