@@ -16,10 +16,10 @@ Currently learning IIoT and collaborating on projects in IoT, ML, and embedded s
 ## 🧰 Skills & Technologies
 - **Embedded / Hardware:** ESP32 / NodeMCU, STM32, SIM800L, MPU6050, Ultrasonic sensors, DS18B20, Relay modules, microSD integration  
 - **IoT / Platforms:** ThingsBoard, MQTT, HTTP APIs, n8n automation  
-- **Machine Learning / CV:** TensorFlow / Keras, OpenCV, PyTorch (basic), image classification (plant disease, brain tumor detection), regression tasks (MotoGP challenge)  
+- **Machine Learning / CV:** TensorFlow, OpenCV, PyTorch (basic), image classification (plant disease, brain tumor detection), regression tasks (MotoGP challenge)  
 - **Backend / Web:** Flask, FastAPI basics, GitHub Pages deployments, simple dashboards  
-- **Dev & Tools:** Git, Docker basics, GitHub Actions (CI), Colab/Jupyter, Linux CLI  
-- **Languages:** Python, C++, C, JavaScript/TypeScript, SQL (basics)
+- **Dev & Tools:** Git, Docker basics, GitHub Actions (CI), Colab/Jupyter
+- **Languages:** Python, C++, C, SQL (basics)
 
 > *If I missed a technology you want listed, replace/add it in the Skills section above.*
 
