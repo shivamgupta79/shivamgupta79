@@ -138,15 +138,13 @@ shivam = {
 |--------|------|---------|
 | 2024 | **Data Analyst Intern** | YBI Foundation |
 | 2024 | **IoT Development Intern** | HiDs Technologies |
-| 2024 | **Tech Intern** | Learn and Build |
+| 2023 | **Tech Intern** | Learn and Build |
 
 ---
 
 ## 🏆 Achievements & Highlights
 
 - 🥇 **Hackathon competitor** — Multi-track hardware & software hackathons (FAR AWAY 2026, CodeFusion 2K26, Tech Hub Africa 2026)
-- 🔭 **IAAC 2026** — Solved all 5 astrophysics problems (orbital mechanics, relativity, solar eclipse geometry)
-- 🐛 **Bug Report to Meta** — Discovered & reported WhatsApp "View Once" media bypass vulnerability
 - 📡 **IoT + Edge AI** — Built 300+ categorized ESP32 hackathon project concepts across 6 tracks
 - 🎓 **B.Tech CSE** — CGPA 7.5, Ganga Institute of Technology & Management (May 2026)
 
