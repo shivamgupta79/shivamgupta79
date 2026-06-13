@@ -6,7 +6,7 @@
 <!-- Live Dynamic Badges Row -->
 <img src="https://komarev.com/ghpvc/?username=shivamgupta79&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/shivamgupta79?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=f1c232&label=TOTAL+STARS" alt="Total Stars"/>
+<img src="https://img.shields.io/github/stars/shivamgupta79?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=f1c232&label=TOTAL+STARS&cacheSeconds=1800" alt="Total Stars"/>
 &nbsp;
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshivamgupta79&query=%24.public_repos&style=for-the-badge&logo=github&color=58a6ff&label=PUBLIC+REPOS" alt="Total Repos"/>
 &nbsp;
