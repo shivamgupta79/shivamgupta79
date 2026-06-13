@@ -227,6 +227,10 @@ shivam = {
     <td><b>IAAC 2026 Qualifier</b> — Solved all 5 astrophysics problems: orbital mechanics, LEO dynamics, solar eclipse geometry, lunar recession & Eddington's relativity test</td>
   </tr>
   <tr>
+    <td>🐛</td>
+    <td><b>Meta Bug Report</b> — Discovered & reported WhatsApp "View Once" media bypass vulnerability to Meta Security Team</td>
+  </tr>
+  <tr>
     <td>📡</td>
     <td><b>IoT + Edge AI Research</b> — Conceptualized 300+ novel ESP32 project ideas across 6 hackathon tracks</td>
   </tr>
@@ -263,7 +267,9 @@ shivam = {
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamgupta79&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamgupta79&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamgupta79&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
