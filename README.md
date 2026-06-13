@@ -46,14 +46,12 @@
 ```python
 shivam = {
     "name"        : "Shivam Gupta",
-    "location"    : "Delhi NCR, India 🇮🇳",
-    "education"   : "B.Tech CSE @ Ganga Institute of Technology & Management (2026)",
-    "cgpa"        : 7.5,
+    "location"    : "India 🇮🇳",
     "roles"       : ["Data Analyst", "IoT Developer", "Embedded Systems Engineer"],
-    "currently"   : "Building real-time IoT & ML systems | Open to full-time roles",
-    "interests"   : ["Edge AI", "Smart Cities", "Hackathons", "Astronomy"],
-    "open_to"     : ["Data Analyst", "IoT Engineer", "Embedded Dev", "Full-Stack"],
-    "fun_fact"    : "Solved 5 IAAC astrophysics problems & reported a WhatsApp bug to Meta 🐛"
+    "currently"   : "Building real-time IoT & ML systems",
+    "interests"   : ["Edge AI", "Smart Cities", "Hackathons""],
+    "open_to"     : ["Data Analyst", "IoT Engineer", "Embedded Dev"],
+
 }
 ```
 
@@ -229,10 +227,6 @@ shivam = {
   <tr>
     <td>📡</td>
     <td><b>IoT + Edge AI Research</b> — Conceptualized 300+ novel ESP32 project ideas across 6 hackathon tracks</td>
-  </tr>
-  <tr>
-    <td>🎓</td>
-    <td><b>B.Tech CSE</b> — CGPA 7.5, Ganga Institute of Technology & Management (May 2026)</td>
   </tr>
 </table>
 
