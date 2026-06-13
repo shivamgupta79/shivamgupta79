@@ -227,10 +227,6 @@ shivam = {
     <td><b>IAAC 2026 Qualifier</b> — Solved all 5 astrophysics problems: orbital mechanics, LEO dynamics, solar eclipse geometry, lunar recession & Eddington's relativity test</td>
   </tr>
   <tr>
-    <td>🐛</td>
-    <td><b>Meta Bug Report</b> — Discovered & reported WhatsApp "View Once" media bypass vulnerability to Meta Security Team</td>
-  </tr>
-  <tr>
     <td>📡</td>
     <td><b>IoT + Edge AI Research</b> — Conceptualized 300+ novel ESP32 project ideas across 6 hackathon tracks</td>
   </tr>
