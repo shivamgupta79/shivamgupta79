@@ -33,7 +33,7 @@ shivam = {
     "roles"       : ["Data Analyst", "IoT Developer", "Embedded Systems Engineer"],
     "currently"   : "Building real-time IoT & ML systems",
     "interests"   : ["Edge AI", "Smart Cities", "Hackathons", "Astronomy"],
-    "fun_fact"    : "I solved IAAC astrophysics problems & found a WhatsApp bug 🐛"
+    
 }
 ```
 
